@@ -6,7 +6,7 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
 		System.out.println("Desde Eclipse..");
 		System.out.println("Realizando Cambios...");
-		System.out.println("Probando..");
+		System.out.println("Probando...");
 	}
 
 }
